@@ -1,4 +1,4 @@
-syspro2018
+sssysssp
 ====
 
 ## Usage
@@ -7,4 +7,3 @@ syspro2018
 2. kadai1/code に移動
 3. 答え合わせ -> ./sh\_check\_correct.sh
 4. コピペチェック -> .sh\_check\_copyPaste.sh
-### 2. kadai2
